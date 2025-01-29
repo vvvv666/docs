@@ -1,12 +1,13 @@
 ---
 id: dao-constitution
-title: The Constitution of the Arbitrum DAO
+title: The Amended Constitution of the Arbitrum DAO
 sidebar_label: The Constitution of the Arbitrum DAO
 description: Read "The Constitution of the Arbitrum DAO", the ultimate governing document of the Arbitrum DAO. Arbitrum DAO's smart contracts implement the protocols described in this document.
 ---
 
 import ConstitutionPartial from '@site/docs/partials/_constitution-content-partial.md';
 import { ConstitutionHash  } from '@site/src/components/ConstitutionHash'
+import { PendingConstitutionNotice  } from '@site/src/components/PendingConstitutionNotice'
 
 
 <div id='constitution'>
@@ -15,6 +16,8 @@ import { ConstitutionHash  } from '@site/src/components/ConstitutionHash'
 
 
 ### Constitution hash
+<PendingConstitutionNotice/>
+<br/>
 
 <code><b><ConstitutionHash/></b></code>
 

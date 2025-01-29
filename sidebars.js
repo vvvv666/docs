@@ -14,7 +14,15 @@ module.exports = {
     },
     {
       type: 'doc',
+      id: 'what-foundation',
+    },
+    {
+      type: 'doc',
       id: 'airdrop-eligibility-distribution',
+    },
+    {
+      type: 'doc',
+      id: 'token-supply',
     },
     {
       type: 'doc',
@@ -27,6 +35,10 @@ module.exports = {
     {
       type: 'doc',
       id: 'new-arb-chains',
+    },
+    {
+      type: 'doc',
+      id: 'network-upgrades',
     },
     {
       type: 'category',
@@ -102,6 +114,10 @@ module.exports = {
       label: 'Governance architecture',
       items: [
         {
+          type: 'doc',
+          id: 'security-council-members',
+        },
+        {
           type: 'link',
           label: 'Sybil detection',
           href: 'https://github.com/ArbitrumFoundation/sybil-detection',
@@ -113,29 +129,17 @@ module.exports = {
         },
         {
           type: 'doc',
+          id: 'fee-distribution'
+        },
+        {
+          type: 'doc',
           id: 'deployment-addresses'
         }
       ],
     },
     {
-      type: 'category',
-      label: 'Foundational documents',
-      items: [
-        {
-          type: 'doc',
-          id: 'foundational-documents/transparency-report-initial-foundation-setup' // SEO
-        },
-        {
-          type: 'link',
-          label: 'Foundation bylaws',
-          href: 'https://drive.google.com/file/d/1TOLXm_NOUwxUaYLqrORubt8a47GvlmS-/view',
-        },
-        {
-          type: 'link',
-          label: 'Foundation M&A',
-          href: 'https://drive.google.com/file/d/1pPqWi9FFr-Z42Xf3kOA5HO07FA1-YoT2/view',
-        }
-      ],
+      type: 'doc',
+      id: 'foundation-documents'
     },
     {
       type: 'doc',
@@ -144,6 +148,10 @@ module.exports = {
     {
       type: 'doc',
       id: 'dao-glossary',
+    },
+    {
+      type: 'doc',
+      id: 'dao-faqs',
     }
   ],
 };

@@ -69,6 +69,8 @@ The Security Council was required to be operational at the time the DAO launched
 
 The initial Security Council members, split by cohort, are as follows:
 
+_NOTE: The members list below represents the initial security council members, which are not necessarily the current members; for the list of current members, see [Security Council Members](../../security-council-members)._
+
 i. September Cohort
 
  1. [Mo Dong](https://twitter.com/no89thkey) is the Co-Founder of Celer Network. Mo received a PhD from the University of Illinois Urbana-Champaign in computer science.
@@ -120,7 +122,7 @@ The initial members of the Data Availability Committee of the Nova chain are aut
 - Reddit, Inc.
 - ConsenSys Software Inc.
 - QuickNode, Inc.
-- P2P
+- P2P.org
 - Google Cloud
 - Offchain Labs, Inc.
 - Opensea Innovation Labs Private Limited
